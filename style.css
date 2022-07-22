@@ -4,7 +4,6 @@ body {
     display: flex;
     flex-direction: column;
     justify-items: center;
-    width: 595px;
     margin: 0 auto;
     line-height: 1.3rem;
 }
@@ -38,7 +37,7 @@ header {
 }
 
 section {
-    margin: 0 2em;
+    margin: 0 20px;
 }
 
 i {
@@ -60,6 +59,3 @@ h1, h2, h3 {
     margin-bottom: 0;
     padding-bottom: 0.1em;
 }
-
-
-@media (min-width: )
